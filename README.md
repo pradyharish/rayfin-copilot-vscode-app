@@ -1,4 +1,5 @@
 Building a Fully Functional App with Rayfin + GitHub Copilot in VS Code
+
 I wanted to test whether a modern Agent-assisted workflow could take me from zero to a real, running application without the traditional setup grind. My goals were:
 
 -        Build a real app, not a demo toy
