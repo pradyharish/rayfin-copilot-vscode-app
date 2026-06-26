@@ -228,5 +228,6 @@ docker network rm todo-local-experimental_default Re-run local mode npm run dev:
 Re-run local mode
 
 npm run dev:local
+
 My conclusions
 This project changed how I think about app bootstrap speed. Rayfin gave me backend capabilities that are usually expensive in setup time. GitHub Copilot in VS Code turned environment handling, troubleshooting, and code generation into a continuous build loop instead of disconnected tasks. Auto model selection reduced one more layer of friction: I could focus on outcomes while the assistant adapted to task complexity.
